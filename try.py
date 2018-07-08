@@ -1,2 +1,2 @@
 def nower():
-    print("lololo")
+    print("lololo 2.0")
