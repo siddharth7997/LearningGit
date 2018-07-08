@@ -1,5 +1,5 @@
 def saolo():
-    print("Hello wssssssssorld\n")
+    print("Hello sssssorld\n")
 
 def meh():
     print("mejjjjjjjjjjj")
