@@ -1,2 +1,2 @@
-def now():
-    print("lol")
+def nower():
+    print("lololo")
