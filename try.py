@@ -1,2 +1,2 @@
 def nower():
-    print("lololo")
+    print("lololo sup")
